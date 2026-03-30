@@ -1,0 +1,34 @@
+# Claude Code（开发环境）
+.claude/
+!impl/.claude/
+
+# Obsidian（开发工具）
+.obsidian/
+
+# 临时文件
+.tmp/
+$PREFIX/
+
+# 测试脚本和测试结果（开发验证，提交到 GitLab）
+# tests/
+
+# 安装脚本和发布脚本（提交到 GitLab）
+# install/
+# scripts/
+
+# 开发过程文档（提交到 GitLab）
+# docs/
+
+# 项目汇总（临时文档）
+PROJECT_SUMMARY.md
+DEPLOYMENT.md
+REFACTOR_SUMMARY.md
+
+# 临时报告（已归档或已记录在进度文档中）
+docs/archive/COMPREHENSIVE_*.md
+docs/archive/TEST_*.md
+docs/archive/REQUIREMENTS_*.md
+
+# 开发环境配置
+.obsidian
+.tmp
