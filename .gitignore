@@ -1,0 +1,15 @@
+# 用户生成的数据
+domain-model.yaml
+conversation.md
+prototype/
+source_materials/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# 编辑器
+.vscode/
+.idea/
