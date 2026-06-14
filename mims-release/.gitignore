@@ -1,0 +1,28 @@
+# 用户生成的数据（不应提交到 git）
+domain-model.yaml
+srs.md
+sdd.md
+prototype/
+source_materials/
+
+# MIMS 工作产品搬迁后的位置（/mims pause 搬到 design/）
+design/domain-model.yaml
+design/srs.md
+design/sdd.md
+design/prototype/
+
+# MIMS 运行状态（含激活状态和工作产品位置指针；是否提交由用户决定）
+.mims/state.yaml
+
+# 备份文件
+.claude.backup.*/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# 编辑器
+.vscode/
+.idea/
